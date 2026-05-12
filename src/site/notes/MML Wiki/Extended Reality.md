@@ -8,4 +8,4 @@ Grundsätzlich sind alle Technologien inbegriffen, welche die Realität auf eine
 
 Ebenen erweitert und virtuelle mit realer Welt verschmilzt.
 
-[[Virtualisierung\|Virtualisierung]]
+<iframe src="/img/user/x/assets/XR%20Graphic%202.pdf" width="100%" height="900px" title="XR Graphic 2.pdf" style="border:1px solid #ccc;"></iframe>
