@@ -3,4 +3,5 @@
 ---
 
 
-![[MML Logo Cube BW Negativ.png \| 400]]
+![MML Logo Cube BW Negativ.png](/img/user/x/assets/MML%20Logo%20Cube%20BW%20Negativ.png)
+
