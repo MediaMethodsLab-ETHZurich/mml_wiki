@@ -1,15 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/mml-wiki/mixed-reality/","dg-note-properties":{"aliases":null,"tags":null,"up":null,"related":null,"projects":null,"departments":null,"date":"2026-05-12"}}
+{"dg-publish":true,"permalink":"/mml-wiki/mixed-reality/","dg-note-properties":{"aliases":["MR"],"tags":null,"up":null,"related":null,"projects":null,"departments":null,"date":"2026-05-12"}}
 ---
 
 Unter Mixed Reality verstehen wir Technologien zur Einbindung Virtueller Räume oder Szenarien in reale, analoge Räume. Dies geschieht typischerweise via Kopfhörer, Smartphone und/oder Mixed-Reality headsets.
-
-
-```button
-name To the Forum Batman!
-type link
-action https://forum.obsidian.md/
-```
 
 
 
