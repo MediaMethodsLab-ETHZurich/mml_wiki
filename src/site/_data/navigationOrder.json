@@ -1,11 +1,11 @@
 {
   "/": [
-    "Home",
-    "wikipages"
+    "MML Wiki"
   ],
-  "/wikipages": [
+  "/MML Wiki": [
     "Extended Reality",
     "Virtual Reality",
-    "Virtuelle Räume"
+    "Virtuelle Räume",
+    "MML Wiki"
   ]
 }
