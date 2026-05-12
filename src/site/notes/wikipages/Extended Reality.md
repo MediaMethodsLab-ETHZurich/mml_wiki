@@ -7,3 +7,5 @@ Dient als Oberbegriff aller immersiven Technologien wie [[wikipages/Mixed Realit
 Grundsätzlich sind alle Technologien inbegriffen, welche die Realität auf eine oder mehreren
 
 Ebenen erweitert und virtuelle mit realer Welt verschmilzt.
+
+[[wikipages/Virtualisierung\|Virtualisierung]]
