@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mml-wiki/extended-reality/","dg-note-properties":{"aliases":["XR"],"tags":null,"related":null,"project":null}}
+{"dg-publish":true,"permalink":"/mml-wiki/extended-reality/","dg-note-properties":{"aliases":["XR"],"tags":null,"up":null,"related":null,"projects":null,"departments":null,"date":"<% tp.date.now(\"YYYY-MM-DD\") %>"}}
 ---
 
 Dient als Oberbegriff aller immersiven Technologien wie [[MML Wiki/Mixed Reality\|Mixed Reality]] und [[MML Wiki/Virtual Reality\|Virtual Reality]].
