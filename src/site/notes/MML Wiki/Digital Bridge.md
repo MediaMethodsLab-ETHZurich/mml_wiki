@@ -8,6 +8,6 @@ Eine Digitale Brücke verbindet mehrere Räume, reale oder virtuelle, in denen s
 
 2.   Ein weiterer aktuell bekannter Ansatz ist eine Digitale Brücke in Virtual Reality. Im Vergleich zu Mixed Reality sind Personen in Virtual Reality komplett im virtuellen Raum immersiert. In diesem Format kann jeder der Teilnehmer an einem anderen Ort sein.
 
-3.   Mischformen zwischen dem Immersiven Raum und Virtual Reality sind möglich: beispielsweise könnte ein:e Professor:in in Zürich im immersiven Raum eine Vorlesung halten, während diese in Virtual Reality in Basel, Heilbronn, Singapur und Zug live miterlebt werden kann, oder eine hybride Konferenz kann an zwei Standorten in Mixed Reality stattfinden und weitere Teilnehmer aus dem Homeoffice im virtuellen Teil integrieren.
+3.   Mischformen zwischen dem Immersiven Raum und Virtual Reality sind möglich: beispielsweise könnte ein:e Professor:in in Zürich im immersiven Raum eine Vorlesung halten, während diese in Virtual Reality in Basel, Heilbronn, Singapur und Zug live miterlebt werden kann, oder eine hybride Konferenz kann an zwei Standorten in [[MML Wiki/Mixed Reality\|Mixed Reality]] stattfinden und weitere Teilnehmer aus dem Homeoffice im virtuellen Teil integrieren.
 
 Die Digitalen Brücken sind insbesondere in der übergreifenden Campus-Kooperationen der zwischen Zürich, Basel, Singapur, Zug und dem Campus Heilbronn angedacht.
