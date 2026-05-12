@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"related":null,"project":null,"permalink":"/mml-wiki/beavers-are-not-otters/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"tags":null,"related":null,"project":null}}
+{"dg-publish":true,"permalink":"/mml-wiki/beavers-are-not-otters/","dg-note-properties":{"aliases":null,"tags":null,"related":null,"project":null}}
 ---
 
 

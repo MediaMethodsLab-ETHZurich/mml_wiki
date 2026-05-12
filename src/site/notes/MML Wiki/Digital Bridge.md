@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":null,"tags":null,"related":null,"project":null,"permalink":"/mml-wiki/digital-bridge/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":null,"tags":null,"related":null,"project":null}}
+{"dg-publish":true,"permalink":"/mml-wiki/digital-bridge/","dg-note-properties":{"aliases":null,"tags":null,"related":null,"project":null}}
 ---
 
 Eine Digitale Brücke verbindet mehrere Räume, reale oder virtuelle, in denen sich jeweils mehrere Personen befinden können. Es werden Bild, Ton und Medien in beide Richtungen live übertragen. Hierbei kommen insbesondere Hybrid-Technologien in den „Brückenköpfen“ zum Einsatz. Es gibt unterschiedliche Medientechnologie-Ansätze:

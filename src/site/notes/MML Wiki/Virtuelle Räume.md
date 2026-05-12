@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"aliases":["virtual spaces"],"tags":null,"related":null,"project":null,"permalink":"/mml-wiki/virtuelle-raeume/","dgPassFrontmatter":true,"dg-note-properties":{"aliases":["virtual spaces"],"tags":null,"related":null,"project":null}}
+{"dg-publish":true,"permalink":"/mml-wiki/virtuelle-raeume/","dg-note-properties":{"aliases":["virtual spaces"],"tags":null,"related":null,"project":null}}
 ---
+
+```**Aliase:** `= this.aliases```
 
 Durch virtuelle Räume und deren integrierte mediale Produkte eröffnen sich neue Formen des Lehrens und Lernens, die eine interaktive, kollaborative und internationale Ausbildung auf höchstem Niveau ermöglichen. Im Gegensatz zu einem traditionellen Videocall zeichnen sich virtuelle Räume durch weitere Interaktionsmöglichkeiten aus. Der Raum selbst beinhaltet interaktive Elemente, z.B. eine Laborsimulation, eine virtuelle Feldstudie oder ein multi-user Übungsraum. Teilnehmer sind im Virtuellen in Bewegung, können sich in Gruppen aufteilen und fluide zwischen diesen bewegen.
 
