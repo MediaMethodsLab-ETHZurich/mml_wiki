@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/mml-wiki/virtualisierung/","dg-note-properties":{"aliases":null,"tags":null,"up":null,"related":null,"projects":null,"departments":null,"date":"2026-05-12"}}
----
-
-Virtualisierung ist in unserem Verständnis eine Unterkategorie der [[Digitalisierung\|Digitalisierung]]. Während wir den Begriff Virtualisierung für konkrete mediale, didaktische und technische Methoden verwenden, verstehen wir Digitalisierung als übergeordnetes Konzept, das die umfassende digitale Transformation unserer Gesellschaft beschreibt. Die Virtualisierung spielt eine zentrale Rolle in der digitalen Transformation, indem sie physische Ressourcen mit digitalen Umgebungen verbindet von sozialen Gruppeninteraktionen im [[MML Wiki/Virtuelle Räume\|virtuellen Raum]] bis hin zu immersiven [[MML Wiki/Extended Reality\|Extended Reality]]-Erfahrungen.
