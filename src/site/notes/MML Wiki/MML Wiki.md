@@ -3,4 +3,4 @@
 ---
 
 
-![[MML Logo Cube BW Negativ.png \|400]]
+![[MML Logo Cube BW Negativ.png \| 400]]
