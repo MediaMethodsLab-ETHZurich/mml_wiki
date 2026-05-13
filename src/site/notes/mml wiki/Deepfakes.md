@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mml-wiki/deepfakes/","tags":["syntheticmedia","avatars"],"dg-note-properties":{"aliases":null,"tags":["syntheticmedia","avatars"],"up":null,"related":null,"projects":null,"departments":null,"date":"2026-05-12"}}
+{"dg-publish":true,"permalink":"/mml-wiki/deepfakes/","tags":["syntheticmedia","avatars"],"dg-note-properties":{"aliases":null,"tags":["syntheticmedia","avatars"],"up":"[[Virtualization]]","related":null,"projects":null,"departments":null,"date":"2026-05-12"}}
 ---
 
 Deepfakes sind mittels Künstlicher Intelligenz erzeugte oder manipulierte Medieninhalte, sogenannte synthetische Medien die täuschend echt wirken. In der universitären Lehre bieten sie Potenzial für innovative Vermittlungsformen: Historische Figuren können realistisch dargestellt, durch interaktive Avatare bereichert und Vorlesungen barrierefreier gestaltet werden. Auch personalisierte Erklärvideos oder kritische Auseinandersetzungen mit Medienmanipulation sind denkbar. Deepfakes könnten als ergänzendes didaktisches Werkzeug das Lernen interaktiver und inklusiver machen, sofern ihr Einsatz transparent und reflektiert erfolgt.

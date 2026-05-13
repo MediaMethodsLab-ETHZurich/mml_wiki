@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mml-wiki/mixed-reality/","dg-note-properties":{"aliases":["MR"],"tags":null,"up":null,"related":null,"projects":null,"departments":null,"date":"2026-05-12"}}
+{"dg-publish":true,"permalink":"/mml-wiki/mixed-reality/","tags":["hybridspaces","learningspaces"],"dg-note-properties":{"aliases":["MR"],"tags":["hybridspaces","learningspaces"],"up":"[[Virtualization]]","related":["[[Augmented Reality]]","[[Digital Bridge]]"],"projects":null,"departments":null,"date":"2026-05-12"}}
 ---
 
 Unter Mixed Reality verstehen wir Technologien zur Einbindung Virtueller Räume oder Szenarien in reale, analoge Räume. Dies geschieht typischerweise via Kopfhörer, Smartphone und/oder Mixed-Reality headsets.
